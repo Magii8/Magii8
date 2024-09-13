@@ -3,7 +3,7 @@
 
 Meu nome é Maria Giovana
 
--Estou estudando na Alura;
+-Estou estudando na [Alura](https://www.alura.com.br);
 
 -Estou me desenvolvendo na linguagem JavaScript;
 
@@ -13,3 +13,6 @@ Meu nome é Maria Giovana
 ###   Você entrar em contato comigo ✉
 
 00001124036325sp@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/RgcnydHU8XkAAAAC/mikey.gif)
